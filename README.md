@@ -25,8 +25,8 @@ actually cost?
    smoker in the dataset ($12,829) exceeds the average non-smoker's cost
 3. BMI: Obese policyholders (BMI ≥ 30) average $15,552 — the highest of any 
    BMI category, and 53% of the dataset falls into this group. The cost jump 
-   from Normal to Overweight is small (~$578), while the jump from Overweight 
-   to Obese is much larger (~$4,565) — BMI's cost impact concentrates at the 
+   from Normal to Overweight is small (approx $578), while the jump from Overweight 
+   to Obese is much larger (aaprox $4,565) — BMI's cost impact concentrates at the 
    obesity threshold rather than rising steadily with weight
 4. COMPOUNDING EFFECT: Smoking and obesity compound each other rather than 
    adding together. Among non-smokers, BMI has minimal effect on cost 
@@ -48,8 +48,8 @@ actually cost?
 factor alone — a smoking, obese policyholder costs ~11.5x a non-smoking, 
 normal-weight one, far more than either risk factor would suggest individually
 2. Target smoking cessation and weight management programs at smokers first — 
-obesity's cost impact is minimal for non-smokers (~$1,157 gap) but massive 
-for smokers (~$21,616 gap), so intervention resources are best spent where 
+obesity's cost impact is minimal for non-smokers (approx $1,157 gap) but massive 
+for smokers (approx $21,616 gap), so intervention resources are best spent where 
 the compounding effect is strongest
 3. Use age as a stable, independent pricing factor — its steady, linear 
 relationship with cost makes it a reliable input, unlike children count, 
